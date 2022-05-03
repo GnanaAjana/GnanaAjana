@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 Currently exploring in ReactJS, Ember and ES6.
 - 🛠 Started #100daysofCode challenge.
 - 💬 Happy to help with anything related to JavaScript.
-- 📫 Reach me out @ gnanaajana.govindaraju@gmail.com
+- 📫 Reach me out @ ajana.divya1021@gmail.com
