@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👩🏻‍💻 I am Ajana - FrontEnd Engineer.
+- 👩🏻‍💻 I am Ajana - FrontEnd Developer.
 - 💻 Passionate coding, building products and learning technologies.
 - 🌱 Currently exploring in ReactJS, Ember and ES6.
 - 🛠 Started #100daysofCode challenge.
